@@ -1,6 +1,6 @@
 %% Load specific settings for all pulse pals!
 %dp 6/9/2021
-%this loads the same settings for every connected pulse pal, but with changes to code could
+%this loads the ~same settings for every connected pulse pal~, but with changes to code could
 %identify specific ones and load differently based on COM port
 
 %% First, choose the .mat file with the ParameterMatrix you want to load
